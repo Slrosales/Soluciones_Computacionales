@@ -10,4 +10,4 @@ ecuaciones no lineales, algebra de matrices, interpolación funcional, regresió
 diferenciación e integración y solución numérica de ecuaciones diferenciales
 ordinarias.
 
-- Parcelación 2023-30
+(Parcelación 2023-30)
